@@ -29,6 +29,7 @@ public class FactorFinder {
 			}
 			else {
 				System.out.println(i);
+				System.out.println("Karnan");
 			}
 
 		}
