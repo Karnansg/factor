@@ -28,8 +28,7 @@ public class FactorFinder {
 				System.out.println("FizzBuzz");				
 			}
 			else {
-				System.out.println(i);
-				System.out.println("Karnan");
+				System.out.println(i);				
 			}
 
 		}
